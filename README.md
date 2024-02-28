@@ -21,6 +21,6 @@ tools: Grasshopper (Rhinoceros 3d 7), Hops, Decoding Spaces, Urbano, EarthEngine
 
 
 ##  References
-- Global Friction Surface 2019 - [Google Earth Engine](https://developers.google.com/earth-engine/datasets/catalog/Oxford_MAP_friction_surface_2019)
-- Copernicus CORINE Land Cover CLC 2018 - [Google Earth Engine](https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_CORINE_V20_100m)
+- SRTM Digital Elevation Data Version 4  - [Google Earth Engine](https://developers.google.com/earth-engine/datasets/catalog/CGIAR_SRTM90_V4)
+- [Bounding Box Map](https://boundingbox.klokantech.com/)
 - GeoMining Technology - Iacopo Neri. [GitHub](https://github.com/neriiacopo/GeoMining-EE-Hops)
