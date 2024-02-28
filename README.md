@@ -12,12 +12,13 @@ tools: Grasshopper (Rhinoceros 3d 7), Hops, Decoding Spaces, Urbano, EarthEngine
 - accuracy of map is limited by 200 m * 200 m
 
 ## piece of code
-1. making 3d landscape in Grasshopper. [source>>](IoP_infographics_11_codescnae_2.gh)
-![](visuals/def_cnae.jpg)
+1. making 3d landscape in Grasshopper.</br> ![](def_stem_land.png)
+2. [source>>](QQ_00.gh)
+
 
 ## data visualization
 ### 3d landscape of a disctrict in Kazakhstan.
-![](visuals/perks-06.png)
+![](ViewCapture20240228_170447.jpg)
 
 
 ##  References
