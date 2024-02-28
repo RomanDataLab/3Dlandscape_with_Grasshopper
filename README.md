@@ -9,7 +9,7 @@ tools: Grasshopper (Rhinoceros 3d 7), Hops, Decoding Spaces, Urbano, EarthEngine
 - Building 3d maps with Grasshopper from satellite images.
 
 ## Key takeaways
-- accuracy of map is limited by 200 m * 200 m
+- accuracy of map is limited by 90*90-m pixel
 
 ## piece of code
 1. making 3d landscape in Grasshopper.</br> ![](def_stem_land.png)
